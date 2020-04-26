@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5e8daa4c-364f-4bdf-bd28-c8509ec7f942" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UMJ8nS3hphHAVx2Y6cCdKGJJy9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/lib/python3.7/site-packages/matplotlib" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/inputs" />
+      <recent name="$PROJECT_DIR$/brpf" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.config">
+    <configuration name="config" type="PythonConfigurationType" factoryName="Python">
+      <module name="GUI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/brpf/config.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python">
+      <module name="GUI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.config" />
+      <item itemvalue="Python.main" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INHERITED,SHOW_FIELDS" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e8daa4c-364f-4bdf-bd28-c8509ec7f942" name="Default Changelist" comment="" />
+      <created>1575160374124</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575160374124</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="274" y="398" width="800" height="684" key="#Chrome_Settings" timestamp="1578752758965">
+      <screen x="52" y="27" width="2508" height="1413" />
+    </state>
+    <state x="274" y="398" width="800" height="684" key="#Chrome_Settings/52.27.2508.1413@52.27.2508.1413" timestamp="1578752758965" />
+    <state x="133" y="391" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580989015922">
+      <screen x="52" y="27" width="2508" height="1413" />
+    </state>
+    <state x="133" y="391" key="#com.intellij.execution.impl.EditConfigurationsDialog/52.27.2508.1413@52.27.2508.1413" timestamp="1580989015922" />
+    <state x="150" y="391" key="#com.intellij.execution.impl.EditConfigurationsDialog/70.27.2490.1413@70.27.2490.1413" timestamp="1577026355223" />
+    <state x="371" y="538" width="632" height="397" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577022852795">
+      <screen x="70" y="27" width="2490" height="1413" />
+    </state>
+    <state x="371" y="538" width="632" height="397" key="#com.intellij.fileTypes.FileTypeChooser/70.27.2490.1413@70.27.2490.1413" timestamp="1577022852795" />
+    <state x="1042" y="571" width="518" height="332" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1580988809795">
+      <screen x="52" y="27" width="2508" height="1413" />
+    </state>
+    <state x="1042" y="571" width="518" height="332" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/52.27.2508.1413@52.27.2508.1413" timestamp="1580988809795" />
+    <state x="919" y="27" width="594" height="1413" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1577466114425">
+      <screen x="70" y="27" width="2490" height="1413" />
+    </state>
+    <state x="919" y="27" width="594" height="1413" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/70.27.2490.1413@70.27.2490.1413" timestamp="1577466114425" />
+    <state x="425" y="482" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577023285553">
+      <screen x="70" y="27" width="2490" height="1413" />
+    </state>
+    <state x="425" y="482" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/70.27.2490.1413@70.27.2490.1413" timestamp="1577023285553" />
+    <state x="515" y="625" width="325" height="563" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1577466669281">
+      <screen x="70" y="27" width="2490" height="1413" />
+    </state>
+    <state x="515" y="625" width="325" height="563" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/70.27.2490.1413@70.27.2490.1413" timestamp="1577466669281" />
+    <state x="480" y="695" width="601" height="593" key="#xdebugger.evaluate" timestamp="1578852223230">
+      <screen x="52" y="27" width="2508" height="1413" />
+    </state>
+    <state x="480" y="695" width="601" height="593" key="#xdebugger.evaluate/52.27.2508.1413@52.27.2508.1413" timestamp="1578852223230" />
+    <state x="447" y="800" width="552" height="600" key="#xdebugger.evaluate/70.27.2490.1413@70.27.2490.1413" timestamp="1577991264276" />
+    <state x="460" y="491" width="424" height="491" key="FileChooserDialogImpl" timestamp="1581175813972">
+      <screen x="52" y="27" width="2508" height="1413" />
+    </state>
+    <state x="460" y="491" width="424" height="491" key="FileChooserDialogImpl/52.27.2508.1413@52.27.2508.1413" timestamp="1581175813972" />
+    <state x="475" y="491" width="424" height="491" key="FileChooserDialogImpl/70.27.2490.1413@70.27.2490.1413" timestamp="1577991413883" />
+    <state width="2462" height="299" key="GridCell.Tab.0.bottom" timestamp="1580990772219">
+      <screen x="52" y="27" width="2508" height="1413" />
+    </state>
+    <state width="2462" height="299" key="GridCell.Tab.0.bottom/52.27.2508.1413@52.27.2508.1413" timestamp="1580990772219" />
+    <state width="1222" height="370" key="GridCell.Tab.0.bottom/70.27.2490.1413@70.27.2490.1413" timestamp="1577992494613" />
+    <state width="2462" height="299" key="GridCell.Tab.0.center" timestamp="1580990772218">
+      <screen x="52" y="27" width="2508" height="1413" />
+    </state>
+    <state width="2462" height="299" key="GridCell.Tab.0.center/52.27.2508.1413@52.27.2508.1413" timestamp="1580990772218" />
+    <state width="1222" height="370" key="GridCell.Tab.0.center/70.27.2490.1413@70.27.2490.1413" timestamp="1577992494612" />
+    <state width="2462" height="299" key="GridCell.Tab.0.left" timestamp="1580990772218">
+      <screen x="52" y="27" width="2508" height="1413" />
+    </state>
+    <state width="2462" height="299" key="GridCell.Tab.0.left/52.27.2508.1413@52.27.2508.1413" timestamp="1580990772218" />
+    <state width="1222" height="370" key="GridCell.Tab.0.left/70.27.2490.1413@70.27.2490.1413" timestamp="1577992494612" />
+    <state width="2462" height="299" key="GridCell.Tab.0.right" timestamp="1580990772218">
+      <screen x="52" y="27" width="2508" height="1413" />
+    </state>
+    <state width="2462" height="299" key="GridCell.Tab.0.right/52.27.2508.1413@52.27.2508.1413" timestamp="1580990772218" />
+    <state width="1222" height="370" key="GridCell.Tab.0.right/70.27.2490.1413@70.27.2490.1413" timestamp="1577992494613" />
+    <state width="2462" height="370" key="GridCell.Tab.1.bottom" timestamp="1580990772216">
+      <screen x="52" y="27" width="2508" height="1413" />
+    </state>
+    <state width="2462" height="370" key="GridCell.Tab.1.bottom/52.27.2508.1413@52.27.2508.1413" timestamp="1580990772216" />
+    <state width="1222" height="370" key="GridCell.Tab.1.bottom/70.27.2490.1413@70.27.2490.1413" timestamp="1577992494613" />
+    <state width="2462" height="370" key="GridCell.Tab.1.center" timestamp="1580990772216">
+      <screen x="52" y="27" width="2508" height="1413" />
+    </state>
+    <state width="2462" height="370" key="GridCell.Tab.1.center/52.27.2508.1413@52.27.2508.1413" timestamp="1580990772216" />
+    <state width="1222" height="370" key="GridCell.Tab.1.center/70.27.2490.1413@70.27.2490.1413" timestamp="1577992494613" />
+    <state width="2462" height="370" key="GridCell.Tab.1.left" timestamp="1580990772216">
+      <screen x="52" y="27" width="2508" height="1413" />
+    </state>
+    <state width="2462" height="370" key="GridCell.Tab.1.left/52.27.2508.1413@52.27.2508.1413" timestamp="1580990772216" />
+    <state width="1222" height="370" key="GridCell.Tab.1.left/70.27.2490.1413@70.27.2490.1413" timestamp="1577992494613" />
+    <state width="2462" height="370" key="GridCell.Tab.1.right" timestamp="1580990772216">
+      <screen x="52" y="27" width="2508" height="1413" />
+    </state>
+    <state width="2462" height="370" key="GridCell.Tab.1.right/52.27.2508.1413@52.27.2508.1413" timestamp="1580990772216" />
+    <state width="1222" height="370" key="GridCell.Tab.1.right/70.27.2490.1413@70.27.2490.1413" timestamp="1577992494613" />
+    <state x="1118" y="454" width="1234" height="737" key="SettingsEditor" timestamp="1580990750871">
+      <screen x="52" y="27" width="2508" height="1413" />
+    </state>
+    <state x="1118" y="454" width="1234" height="737" key="SettingsEditor/52.27.2508.1413@52.27.2508.1413" timestamp="1580990750871" />
+    <state x="181" y="368" width="1022" height="737" key="SettingsEditor/70.27.2490.1413@70.27.2490.1413" timestamp="1577013405792" />
+    <state x="411" y="464" width="639" height="524" key="StructurePopup" timestamp="1577466839445">
+      <screen x="70" y="27" width="2490" height="1413" />
+    </state>
+    <state x="411" y="464" width="639" height="524" key="StructurePopup/70.27.2490.1413@70.27.2490.1413" timestamp="1577466839445" />
+    <state width="617" height="706" key="XDebugger.FullValuePopup" timestamp="1577121040442">
+      <screen x="70" y="27" width="2490" height="1413" />
+    </state>
+    <state width="617" height="706" key="XDebugger.FullValuePopup/70.27.2490.1413@70.27.2490.1413" timestamp="1577121040442" />
+    <state x="348" y="561" key="com.intellij.ide.util.TipDialog" timestamp="1577617608909">
+      <screen x="70" y="27" width="2490" height="1413" />
+    </state>
+    <state x="348" y="561" key="com.intellij.ide.util.TipDialog/70.27.2490.1413@70.27.2490.1413" timestamp="1577617608909" />
+    <state x="856" y="472" width="890" height="529" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1578754593466">
+      <screen x="52" y="27" width="2508" height="1413" />
+    </state>
+    <state x="856" y="472" width="890" height="529" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/52.27.2508.1413@52.27.2508.1413" timestamp="1578754593466" />
+    <state x="326" y="259" width="713" height="807" key="find.popup" timestamp="1578305258929">
+      <screen x="52" y="27" width="2508" height="1413" />
+    </state>
+    <state x="326" y="259" width="713" height="807" key="find.popup/52.27.2508.1413@52.27.2508.1413" timestamp="1578305258929" />
+    <state x="329" y="330" width="707" height="807" key="find.popup/70.27.2490.1413@70.27.2490.1413" timestamp="1577099294006" />
+    <state x="427" y="377" width="501" height="720" key="refactoring.ChangeSignatureDialog" timestamp="1577465817437">
+      <screen x="70" y="27" width="2490" height="1413" />
+    </state>
+    <state x="427" y="377" width="501" height="720" key="refactoring.ChangeSignatureDialog/70.27.2490.1413@70.27.2490.1413" timestamp="1577465817437" />
+    <state x="969" y="349" width="672" height="678" key="search.everywhere.popup" timestamp="1581175062551">
+      <screen x="52" y="27" width="2508" height="1413" />
+    </state>
+    <state x="969" y="349" width="672" height="678" key="search.everywhere.popup/52.27.2508.1413@52.27.2508.1413" timestamp="1581175062551" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/matplotlib/figure.py</url>
+          <line>1560</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/brpf/config.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
